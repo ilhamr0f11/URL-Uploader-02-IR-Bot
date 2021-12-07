@@ -1,5 +1,5 @@
 #### Any-Dl-X
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=sahaynitin&repo=Any-Dl-X&theme=cobalt)](h&bg_color=#24378)
+[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=sahaynitin&repo=Any-Dl-X&theme=cobalt)](h&bg_color=24378)
 
 #### Deploy
 
