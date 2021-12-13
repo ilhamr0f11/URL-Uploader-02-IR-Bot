@@ -21,7 +21,7 @@ class Translation(object):
 ➠ <b>Send a photo to make it as permanent thumbnail.</b>
 
 <b>Deleting Thumbnail</b>
-➠ Send /deletethumb to delete thumbnail.</b>
+➠ <b>Send /deletethumb to delete thumbnail.</b>
 
 <b>Convert To Video</b>
 ➠ <b>Send /convert2video to Convert File In Video</b>
@@ -30,16 +30,16 @@ class Translation(object):
 ➠ <b>Send /c2file To Convert Video To File</b>
 
 <b>Upload To GoFile</b>
-➠ Send /uptogofile To Upload Media On GoFile.</b>
+➠ <b>Send /uptogofile To Upload Media On GoFile.</b>
 
 <b>Upload To Anonfiles</b>
-➠ Send /uptoanonfiles .</b>
+➠ <b>Send /uptoanonfiles .</b>
 
 <b>Upload To Transfer sh</b>
-➠ Send /uptotsh To Upload Media On GoFile.</b>
+➠ <b>Send /uptotsh To Upload Media On GoFile.</b>
 
 <b>Take Screen Shots</b>
-➠ Send /sshot to take Screenshots .</b>
+➠ <b>Send /sshot to take Screenshots .</b>
 
 <b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
