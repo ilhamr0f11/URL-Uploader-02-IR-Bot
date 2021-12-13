@@ -1,4 +1,4 @@
-import rando
+import random
 import string
 
 def random_char(y):
