@@ -5,11 +5,11 @@ class Translation(object):
     START_TEXT = """
 <b>Hey</b><b> {} </b>
 
-<b>I am Telegram Most Powerful Url Uploader Bot</b>
+<b>I am Telegram Most Powerful Any-Dl-X Bot</b>
 
 <b>I can Upload Any Link in File or Video</b>
 
-<b>Use Help Command to Know How to Use me</b>
+<b>Use Help Button to Know About More Features And How to Use me</b>
 
 <b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
@@ -21,10 +21,7 @@ class Translation(object):
 ➠ <b>Send a photo to make it as permanent thumbnail.</b>
 
 <b>Deleting Thumbnail</b>
-➠ Send /del_thumb to delete thumbnail.</b>
-
-<b>Show Thumbnail</b>
-➠ Send /show_thumb to view custom thumbnail.</b>
+➠ Send /deletethumb to delete thumbnail.</b>
 
 <b>Convert To Video</b>
 ➠ <b>Send /convert2video to Convert File In Video</b>
@@ -36,12 +33,18 @@ class Translation(object):
 ➠ Send /uptogofile To Upload Media On GoFile.</b>
 
 <b>Upload To Anonfiles</b>
-➠ Send /uptoanonfile .</b>
+➠ Send /uptoanonfiles .</b>
+
+<b>Upload To Transfer sh</b>
+➠ Send /uptotsh To Upload Media On GoFile.</b>
+
+<b>Take Screen Shots</b>
+➠ Send /sshot to take Screenshots .</b>
 
 <b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
     ABOUT_TEXT = """
- **🤖 <b>Bot :** URL Uploader</b>\n
+ **🤖 <b>Bot :** Any-Dl-X</b>\n
  **👲 <b>Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
  **👥 <b>Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
  **❄️ <b>Credits :** Everyone in this journey</b>\n
