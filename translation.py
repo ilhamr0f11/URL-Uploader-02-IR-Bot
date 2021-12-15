@@ -5,11 +5,11 @@ class Translation(object):
     START_TEXT = """
 <b>Hey</b><b> {} </b>
 
-<b>I am Telegram Most Powerful Any-Dl-X Bot</b>
+<b>I am Modified Telegram All in One Bot</b>
 
 <b>I can Upload Any Link in File or Video</b>
 
-<b>Use Help Button to Know About More Features And How to Use me</b>
+<b>Use Help Button to Know How to Use me</b>
 
 <b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
@@ -26,8 +26,8 @@ class Translation(object):
 <b>Convert To Video</b>
 ➠ <b>Send /converttovideo to Convert File In Video</b>
 
-<b>Convert To File</b>
-➠ <b>Send /c2file To Convert Video To File</b>
+<b>Rename To File</b>
+➠ <b>Send /rename To Media To File With NewName</b>
 
 <b>Upload To GoFile</b>
 ➠ <b>Send /uptogofile To Upload Media On GoFile.</b>
@@ -44,7 +44,7 @@ class Translation(object):
 <b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
     ABOUT_TEXT = """
- **🤖 <b>Bot :** Any-Dl-X</b>\n
+ **🤖 <b>Bot :** All in One Bot</b>\n
  **👲 <b>Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
  **👥 <b>Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
  **❄️ <b>Credits :** Everyone in this journey</b>\n
