@@ -21,10 +21,10 @@ class Translation(object):
 ➠ <b>Send a photo to make it as permanent thumbnail.</b>
 
 <b>Deleting Thumbnail</b>
-➠ <b>Send /deletethumb to delete thumbnail.</b>
+➠ <b>Send /deletethumbnail to delete thumbnail.</b>
 
 <b>Convert To Video</b>
-➠ <b>Send /convert2video to Convert File In Video</b>
+➠ <b>Send /converttovideo to Convert File In Video</b>
 
 <b>Convert To File</b>
 ➠ <b>Send /c2file To Convert Video To File</b>
@@ -33,7 +33,7 @@ class Translation(object):
 ➠ <b>Send /uptogofile To Upload Media On GoFile.</b>
 
 <b>Upload To Anonfiles</b>
-➠ <b>Send /uptoanonfiles .</b>
+➠ <b>Send /uptoanonfiles To Upload Media on Anonfiles.</b>
 
 <b>Upload To Transfer sh</b>
 ➠ <b>Send /uptotsh To Upload Media On GoFile.</b>
