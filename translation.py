@@ -6,10 +6,12 @@ class Translation(object):
 <b>Hey</b><b> {} </b>
 
 <b>I am Modified Telegram All in One Bot</b>
+
 <b>I can Upload Any Link in File or Video</b>
-<b>Supported site YouTube, Twitter, Tiktok and etc</b>
+<b>Supported site 🌐 YouTube, Twitter, Tiktok and etc.</b>
 <b>Use @igdlirbot for Download Instagram Post and Reels</b>
 <b>Use Help Button to Know How to Use me</b>
+
 <b>Maintenance and Hosted by</b><b> @IRBotsUpdate</b>
 """
     HELP_TEXT = """
