@@ -44,11 +44,11 @@ class Translation(object):
 <b>Made With 💕 By</b><b> @IRBotsUpdate</b>
 """
     ABOUT_TEXT = """
- **🤖 <b>Bot :** All in One Bot</b>\n
- **👲 <b>Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
- **👥 <b>Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
+ **🤖 <b>Bot :** [URL Uploader IR Bot 02](https://t.me/urlup02irbot)</b>\n
+ **👲 <b>Developer :** [LhRfi](https://telegram.me/lhrfi)</b>\n
+ **👥 <b>Channel :** [IRBotsUpdate](https://telegram.me/IRBotsUpdate)</b>\n
  **❄️ <b>Credits :** Everyone in this journey</b>\n
- **🍴 <b>Source :** [Click here](https://t.me/tellybots_digital)</b>\n
+ **🍴 <b>Source :** [Click Here](https://github.com/ilhamr0f11/URL-Uploader-02-IR-Bot/) </b>\n
  **📝 <b>Language :** [Python3](https://python.org)</b>\n
  **📚 <b>Library :** [Pyrogram v1.2.0](https://pyrogram.org)</b>\n
  **🌟 <b>Server :** [Heroku](https://heroku.com)</b>\n
