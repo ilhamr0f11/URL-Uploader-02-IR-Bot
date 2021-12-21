@@ -11,7 +11,7 @@ class Translation(object):
 
 <b>Use Help Button to Know How to Use me</b>
 
-<b>Made With 💕 By</b><b> @Tellybots_4u</b>
+<b>Maintenance and Hosted by</b><b> @IRBotsUpdate</b>
 """
     HELP_TEXT = """
 <b>Link to Media or File</b>
@@ -41,7 +41,7 @@ class Translation(object):
 <b>Take Screen Shots</b>
 ➠ <b>Send /sshot to take Screenshots .</b>
 
-<b>Made With 💕 By</b><b> @Tellybots_4u</b>
+<b>Made With 💕 By</b><b> @IRBotsUpdate</b>
 """
     ABOUT_TEXT = """
  **🤖 <b>Bot :** All in One Bot</b>\n
@@ -55,10 +55,8 @@ class Translation(object):
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/tellybots_4u'),
-        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/tellybots_support')
-        ],[
-        InlineKeyboardButton('❔ Help', callback_data='help'),
+        InlineKeyboardButton('🤖 More Bots and Support Channel 🤖', url='https://telegram.me/IRBotsUpdate')],[
+        InlineKeyboardButton('❔ Help ❔', callback_data='help'),
         InlineKeyboardButton('Close', callback_data='close')
         ]]
     )
@@ -84,13 +82,13 @@ class Translation(object):
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_FILE = " 📥DownloadinG📥 File "
-    UPLOAD_FILE = " 📤UploadinG📤 \n\n To  transfer.sh "
-    ANNO_UPLOAD = " 📤UploadinG📤 \n\n To  anonfiles.com "
-    BAY_UPLOAD = " 📤UploadinG📤 \n\n To  bayfiles.com "
-    GO_FILE_UPLOAD = " 📤UploadinG📤 \n\n To  gofile.io "
-    DOWNLOAD_START = " 📥DownloadinG📥 \n\nWait⏳ until it completed."
-    UPLOAD_START = " 📤UploadinG📤 "
+    DOWNLOAD_FILE = " 📥Downloading📥 File "
+    UPLOAD_FILE = " 📤Uploading📤 \n\n To  transfer.sh "
+    ANNO_UPLOAD = " 📤Uploading📤 \n\n To  anonfiles.com "
+    BAY_UPLOAD = " 📤Uploading📤 \n\n To  bayfiles.com "
+    GO_FILE_UPLOAD = " 📤Uploading📤 \n\n To  gofile.io "
+    DOWNLOAD_START = " 📥Downloading📥 \n\nWait⏳ until it completed."
+    UPLOAD_START = " 📤Uploading📤 "
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "By @Tellybots_4u"
